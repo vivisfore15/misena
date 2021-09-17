@@ -11,6 +11,7 @@
 <%
 prueba p= new prueba();
 p.prueba1();
+p.prueba2();
 %>
 </body>
 </html>

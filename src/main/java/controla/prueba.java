@@ -9,5 +9,10 @@ public class prueba{
 		
 		JOptionPane.showMessageDialog(null, "Metodo 1");
 		}
+	
+	public void prueba2(){
+		
+		JOptionPane.showMessageDialog(null, "Metodo 2");
+		}
 
 	}
